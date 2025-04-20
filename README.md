@@ -303,7 +303,14 @@ Laptop (Fedora 41)
 
 ## 📸 Screenshots
 
-Screenshots of Grafana dashboards and VM management interfaces are provided in the `screenshots/` directory.
+![openstack_ubuntu_vm](https://github.com/user-attachments/assets/ee2dc97d-0701-4709-be3f-e0fc2ac28ed9)
+
+- Openstack deployment on Ubuntu VM
+
+![nextcloud_rockylinux](https://github.com/user-attachments/assets/324700ff-eb0c-4266-b37d-8d7db43d4f24)
+
+- Nextcloud deployment on Rocky Linux VM
+
 
 ## 📕 Troubleshooting
 
