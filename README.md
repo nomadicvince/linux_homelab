@@ -2,6 +2,9 @@
 
 This repository documents my Linux homelab setup built primarily for self-taught learning, project development, cybersecurity experimentation, and preparation for the **Red Hat Certified Systems Administrator (RHCSA)** exam.
 
+
+![linux_homelab](https://github.com/user-attachments/assets/ea7842d8-af6b-4cb4-9043-58cb279b6121)
+
 ## 📚 Table of Contents
 
 - [📌 Homelab Overview](#-homelab-overview)
