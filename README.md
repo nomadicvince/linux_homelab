@@ -98,6 +98,8 @@ sudo /sbin/vboxconfig
 
 ## 📈 Monitoring Setup: Grafana
 
+![grafana](https://github.com/user-attachments/assets/bc78a42f-27c0-4cf4-971c-c1f27b46abc1)
+
 ```bash
 sudo dnf install grafana
 sudo systemctl enable --now grafana-server
