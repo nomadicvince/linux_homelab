@@ -305,13 +305,21 @@ Laptop (Fedora 41)
 
 ## 📸 Screenshots
 
-![openstack_ubuntu_vm](https://github.com/user-attachments/assets/ee2dc97d-0701-4709-be3f-e0fc2ac28ed9)
+
+- [Peppermint deployment on Linode](https://helpdesk.cosmiqcloud.com)
+
+![peppermint](https://github.com/user-attachments/assets/1cc6fd41-bd40-40d6-ac73-5aca2a16f3b7)
+
 
 - Openstack deployment on Ubuntu VM
 
-![nextcloud_rockylinux](https://github.com/user-attachments/assets/324700ff-eb0c-4266-b37d-8d7db43d4f24)
+![openstack_ubuntu_vm](https://github.com/user-attachments/assets/ee2dc97d-0701-4709-be3f-e0fc2ac28ed9)
+
 
 - Nextcloud deployment on Rocky Linux VM
+
+![nextcloud_rockylinux](https://github.com/user-attachments/assets/324700ff-eb0c-4266-b37d-8d7db43d4f24)
+
 
 
 ## 📕 Troubleshooting
