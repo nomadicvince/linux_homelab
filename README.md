@@ -310,6 +310,9 @@ Laptop (Fedora 41)
 
 ![peppermint](https://github.com/user-attachments/assets/1cc6fd41-bd40-40d6-ac73-5aca2a16f3b7)
 
+- Rancher Desktop for Kubernetes tested locally
+
+![rancher](https://github.com/user-attachments/assets/888add4c-044f-4893-965a-cb5a52eb4529)
 
 - Openstack deployment on Ubuntu VM
 
